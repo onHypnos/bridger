@@ -6,4 +6,4 @@ Bridger is a game where the player controls a character who must traverse chasms
 
 ## Development
 
-The project is written in TypeScript using Cocos Creator v3.8. The entry point is the ProjectContext on the Bootstrap scene.
+The project is written in TypeScript using Cocos Creator v3.8. The entry point is the Bootstrap component on the Bootstrap scene.
